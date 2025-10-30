@@ -58,7 +58,7 @@ Optional columns like `Course URL` and `Course Description` will be dropped auto
 ## How to Run
 
 ```bash
-python recommend_console_singlekeyword_immediate_metrics_with_university.py
+python course_recommender.py
 ```
 
 - If `Coursera.csv` is not found, you’ll be prompted to enter its path.
